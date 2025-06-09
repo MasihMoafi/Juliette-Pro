@@ -1,0 +1,7 @@
+smolagents
+ollama
+pandas
+plotly
+httpx
+beautifulsoup4
+numpy

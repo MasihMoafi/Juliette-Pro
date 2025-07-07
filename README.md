@@ -1,4 +1,4 @@
-# Juliette Pro 🧠 - Advanced Code Assistant
+# Juliette Pro 🧠 - Advanced Assistant
 
 Juliette Pro is a sophisticated, Streamlit-based web application that provides an advanced interface for interacting with Google's Gemini 2.5 Pro model. It's designed for developers and researchers who need a powerful, transparent, and highly interactive coding assistant.
 

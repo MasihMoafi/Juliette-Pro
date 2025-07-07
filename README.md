@@ -58,7 +58,3 @@ The application uses the Google GenAI SDK to communicate with the Gemini model. 
 - **Tool Integration:** Based on your prompt and the enabled tools, the model can decide to execute code or perform a web search. The results are then fed back into the model's context.
 - **Response Generation:** The model generates a final answer based on the prompt, the conversation history, and any tool outputs.
 - **State Management:** The chat history, including all user messages, model responses, and tool interactions, is stored in a JSON file (`juliette_history.json`) to maintain conversation state across sessions.
-
----
-
-Built with ❤️ for my King.

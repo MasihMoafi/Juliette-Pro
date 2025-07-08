@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4d84e9c7-1ffb-4d24-b4bb-8534c2393857)# Juliette Pro 🧠 - Advanced Assistant
+## Juliette Pro 🧠 - Advanced Assistant
 
 Juliette Pro is a sophisticated, Streamlit-based web application that provides an advanced interface for interacting with Google's Gemini 2.5 Pro model. It's designed for developers and researchers who need a powerful, transparent, and highly interactive coding assistant.
 
@@ -61,8 +61,7 @@ The application uses the Google GenAI SDK to communicate with the Gemini model. 
 
 ## Case In Point
 
-![Uploading image.png
-
+![image](https://github.com/user-attachments/assets/4d84e9c7-1ffb-4d24-b4bb-8534c2393857)# 
 ![Screenshot from 2025-07-08 15-47-38](https://github.com/user-attachments/assets/7ef878c9-e812-4157-ab72-d488a52c1d42)
 
 
